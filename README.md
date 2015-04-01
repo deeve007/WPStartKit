@@ -1,0 +1,2 @@
+# WPStartKit
+WordPress blank theme
